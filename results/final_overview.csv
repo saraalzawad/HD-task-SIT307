@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1,AUC
+Paper reported (leaky split),0.9853,1.0,0.9727,0.9861,0.988
+Reproduced (leaky split),0.9854,1.0,0.9709,0.9852,1.0
+Paper method (honest 5x5 CV),0.8298,0.8243,0.8781,0.8479,0.9029
+Proposed method (honest 5x5 CV),0.8344,0.8387,0.8669,0.8496,0.9139
